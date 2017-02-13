@@ -1,0 +1,22 @@
+C:\Users\drewr\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\drewr\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\drewr\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\drewr\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\drewr\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\BmiCalc.vbprojResolveAssemblyReference.cache
+C:\Users\drewr\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.BmiCalc.resources
+C:\Users\drewr\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\drewr\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\BmiCalc.vbproj.GenerateResource.Cache
+C:\Users\drewr\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\drewr\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\drewr\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\net\BmiCalc\BmiCalc\BmiCalc\bin\Debug\BmiCalc.exe.config
+C:\net\BmiCalc\BmiCalc\BmiCalc\bin\Debug\BmiCalc.exe
+C:\net\BmiCalc\BmiCalc\BmiCalc\bin\Debug\BmiCalc.pdb
+C:\net\BmiCalc\BmiCalc\BmiCalc\bin\Debug\BmiCalc.xml
+C:\net\BmiCalc\BmiCalc\BmiCalc\obj\Debug\BmiCalc.vbprojResolveAssemblyReference.cache
+C:\net\BmiCalc\BmiCalc\BmiCalc\obj\Debug\WindowsApp1.BmiCalc.resources
+C:\net\BmiCalc\BmiCalc\BmiCalc\obj\Debug\WindowsApp1.Resources.resources
+C:\net\BmiCalc\BmiCalc\BmiCalc\obj\Debug\BmiCalc.vbproj.GenerateResource.Cache
+C:\net\BmiCalc\BmiCalc\BmiCalc\obj\Debug\BmiCalc.exe
+C:\net\BmiCalc\BmiCalc\BmiCalc\obj\Debug\BmiCalc.xml
+C:\net\BmiCalc\BmiCalc\BmiCalc\obj\Debug\BmiCalc.pdb
